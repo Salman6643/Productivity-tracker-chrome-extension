@@ -1,0 +1,5 @@
+body{font-family: Arial, Helvetica, sans-serif; width:320px; padding:10px}
+.container h2{margin:0 0 8px}
+#stats{font-size:14px; min-height:60px}
+textarea{width:100%; box-sizing:border-box}
+button{margin-right:6px}
