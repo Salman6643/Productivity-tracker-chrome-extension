@@ -11,3 +11,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH KUMAR
+
+#OUTPUT
+
+https://github.com/Salman6643/Productivity-tracker-chrome-extension/issues/1
